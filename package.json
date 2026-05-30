@@ -23,10 +23,10 @@
   },
   "homepage": "https://github.com/ludovit-scholtz/math-game#readme",
   "dependencies": {
-    "@react-native-async-storage/async-storage": "^3.1.1",
+    "@react-native-async-storage/async-storage": "2.2.0",
     "expo": "^56.0.8",
     "expo-av": "^16.0.8",
-    "react": "^19.2.6",
+    "react": "19.2.3",
     "react-native": "^0.85.3"
   },
   "devDependencies": {

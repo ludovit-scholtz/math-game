@@ -1,0 +1,39 @@
+{
+  "name": "math-game",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "expo start",
+    "android": "expo start --android",
+    "ios": "expo start --ios",
+    "web": "expo start --web",
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ludovit-scholtz/math-game.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/ludovit-scholtz/math-game/issues"
+  },
+  "homepage": "https://github.com/ludovit-scholtz/math-game#readme",
+  "dependencies": {
+    "@react-native-async-storage/async-storage": "^3.1.1",
+    "expo": "^56.0.8",
+    "expo-av": "^16.0.8",
+    "react": "^19.2.6",
+    "react-native": "^0.85.3"
+  },
+  "devDependencies": {
+    "jest": "^29.7.0",
+    "jest-expo": "^56.0.4"
+  },
+  "jest": {
+    "preset": "jest-expo"
+  }
+}

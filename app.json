@@ -1,0 +1,13 @@
+{
+  "expo": {
+    "name": "Math Reflex Game",
+    "slug": "math-reflex-game",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "platforms": ["android", "ios", "web"],
+    "assetBundlePatterns": ["**/*"],
+    "android": {
+      "package": "com.ludovitscholtz.mathgame"
+    }
+  }
+}
